@@ -1,0 +1,17 @@
+{
+ "data": [
+  {
+   "video_id": "--00W1lcxW-WU_40.000",
+   "wav": "./sample_audio/00W1lcxW-WU_40.000.wav",
+   "video_path": "./sample_frames/00W1lcxW-WU_40.000/",
+   "labels": "/m/068hy,/m/07q6cd_,/m/0bt9lr,/m/0jbk"
+  },
+  {
+    "video_id": "--KlsG1EnBEjc_000361",
+    "wav": "./sample_audio/KlsG1EnBEjc_000361.wav",
+    "video_path": "./sample_frames/KlsG1EnBEjc_000361/",
+    "labels": "/m/068hy,/m/07q6cd_,/m/0bt9lr,/m/0jbk"
+   }
+  
+ ]
+}
